@@ -42,7 +42,7 @@ Les utilisateurs inscrits peuvent
     - Git / Gogs
 
 
-*********** Mon travail ***********
+*********** Mon travail (dans trocenchere.zip) ***********
 
    - DAL
         - DAOFactory
